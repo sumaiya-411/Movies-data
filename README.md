@@ -44,7 +44,7 @@ This project demonstrates how to use [DuckDB](https://duckdb.org/) in a Jupyter 
 3. Run the cells to query the data using DuckDB.
 
 ## Example Query
-
+mmn.
 ```sql
 SELECT *
 FROM read_csv_auto('movies.csv')
